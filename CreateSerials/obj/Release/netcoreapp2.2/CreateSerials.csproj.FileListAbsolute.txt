@@ -1,0 +1,11 @@
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\bin\Release\netcoreapp2.2\CreateSerials.deps.json
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\bin\Release\netcoreapp2.2\CreateSerials.runtimeconfig.json
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\bin\Release\netcoreapp2.2\CreateSerials.runtimeconfig.dev.json
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\bin\Release\netcoreapp2.2\CreateSerials.dll
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\bin\Release\netcoreapp2.2\CreateSerials.pdb
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\obj\Release\netcoreapp2.2\CreateSerials.csprojAssemblyReference.cache
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\obj\Release\netcoreapp2.2\CreateSerials.csproj.CoreCompileInputs.cache
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\obj\Release\netcoreapp2.2\CreateSerials.AssemblyInfoInputs.cache
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\obj\Release\netcoreapp2.2\CreateSerials.AssemblyInfo.cs
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\obj\Release\netcoreapp2.2\CreateSerials.dll
+C:\Users\dwalkingstick\source\repos\CreateSerials\CreateSerials\obj\Release\netcoreapp2.2\CreateSerials.pdb
